@@ -3,4 +3,4 @@ conversor automatico de moedas
 
 ##🚀 tecnologia utilizada 
 html, css e javaScript puro.
-o projeto utiliza o API da AwesomeAPI para obter de forma automatica as cotações.git 
+o projeto utiliza o API da AwesomeAPI para obter de forma automatica as cotações.
